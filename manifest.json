@@ -4,14 +4,14 @@
       "description" : "ProJect 授權給 [NFS.TW]ヾ夜の曲-edwinyoo44(夜喵)製作",
       "name" : "TFM_Resource_Pack_64x",
       "uuid" : "3adc3c3a-eb9d-4360-9146-f49bd4405e73",
-      "version" : [ 1, 5, 4 ]
+      "version" : [ 1, 5, 5 ]
    },
    "modules" : [
       {
          "description" : "ProJect 授權給 [NFS.TW]ヾ夜の曲-edwinyoo44(夜喵)製作",
          "type" : "resources",
          "uuid" : "dc327b08-a22b-41b1-aa64-23c38eff210f",
-         "version" : [ 1, 5, 4 ]
+         "version" : [ 1, 5, 5 ]
       }
    ]
 }
